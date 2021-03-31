@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Welcome to Emma Yuan's User Page
 
-You can use the [editor on GitHub](https://github.com/EmmaYuan/CSE110_Lab1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**About Me**
+- UC San Diego
+- Class of 2023
+- Math and CS major
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Favorite Quote**
+> Hello World!
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+**Favorite Line of Code**
+```
+print("Hello World!")
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Favorite Link**
+[Click Here](https://www.google.com/search?q=recursion&oq=recursion&aqs=chrome..69i57j0i20i263i433j0i131i433j46i433j0i131i433l3j0l2j0i131i433.3320j1j1&sourceid=chrome&ie=UTF-8)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EmmaYuan/CSE110_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Two Truths and a Lie**
+- [x] dog person
+- [x] aot fan
+- [ ] love autocaps

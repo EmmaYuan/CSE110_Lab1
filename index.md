@@ -1,7 +1,7 @@
 # Welcome to Emma Yuan's User Page
 
 ## About Me
-Hey I'm Emma, a second-year MathCS major in Warren! I'm proficient in Java, Python, and Swift and if you're interested in developing iOS apps together, please DM me :D\\
+Hey I'm Emma, a second-year MathCS major in Warren! I'm proficient in Java, Python, and Swift and if you're interested in developing iOS apps together, please DM me :D\
 <img src="pic_profile.jpeg"
      alt="profile pic"
      width = 300px />\

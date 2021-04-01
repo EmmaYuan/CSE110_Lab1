@@ -1,10 +1,10 @@
 # Welcome to Emma Yuan's User Page
 
 ## About Me
-Hey I'm Emma, a second-year MathCS major in Warren! 
+Hey I'm Emma, a second-year MathCS major in Warren!\
 <img src="pic_profile.jpeg"
      alt="profile pic"
-     width = 300px />
+     width = 300px />\
 <img src="pic_discord.png"
      alt="discord pic"
      width = 300px />

@@ -1,20 +1,24 @@
 # Welcome to Emma Yuan's User Page
 
 ## About Me
-![profile pic](pic_profile.jpeg width=300)
+<img src="pic_profile.jpeg"
+     alt="profile pic"
+     style="float: left; margin-right: 10px;" />
 - UC San Diego
 - Class of 2023
 - Math and CS major
 
-## Favorite Quote
-> Hakuna matata!\
+## My Favorites 
 
-## Favorite Line of Code
+**Quote**
+> Hakuna matata!
+
+**Line of Code**
 ```
 print("Hello World!")
 ```
 
-## Favorite Links
+**Links**
 - [first](https://www.google.com/search?q=recursion&oq=recursion&aqs=chrome..69i57j0i20i263i433j0i131i433j46i433j0i131i433l3j0l2j0i131i433.3320j1j1&sourceid=chrome&ie=UTF-8)
 - [second](README.md)
 

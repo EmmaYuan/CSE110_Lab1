@@ -14,9 +14,8 @@ print("Hello World!")
 ```
 
 **Favorite Links**
-- [first](#Favorite Links)
-- [second](https://www.google.com/search?q=recursion&oq=recursion&aqs=chrome..69i57j0i20i263i433j0i131i433j46i433j0i131i433l3j0l2j0i131i433.3320j1j1&sourceid=chrome&ie=UTF-8)
-- [third](../../../CSE110_Lab1/blob/main/README.md)
+- [first](https://www.google.com/search?q=recursion&oq=recursion&aqs=chrome..69i57j0i20i263i433j0i131i433j46i433j0i131i433l3j0l2j0i131i433.3320j1j1&sourceid=chrome&ie=UTF-8)
+- [second](main/README.md)
 
 
 **Two Truths and a Lie**
